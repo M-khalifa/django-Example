@@ -8,7 +8,7 @@ This repo is functionality complete — PR's and issues welcome!
 
 ## Installation
 
-1. Clone this repository: `git clone git@github.com:gothinkster/productionready-django-api.git`.
+1. Clone this repository: `git clone git@github.com:M-khalifa/django-Example`.
 2. `cd` into `conduit-django`: `cd productionready-django-api`.
 3. Install [pyenv](https://github.com/yyuu/pyenv#installation).
 4. Install [pyenv-virtualenv](https://github.com/yyuu/pyenv-virtualenv#installation).
